@@ -1,0 +1,48 @@
+# Pliki i katalogi utworzone przez Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.manifest
+
+# Pliki wirtualnych środowisk
+env/
+venv/
+ENV/
+*.venv/
+
+# Pliki konfiguracji IDE
+.idea/
+.vscode/
+
+# Pliki konfiguracyjne systemu
+.DS_Store
+Thumbs.db
+
+# Pliki logów
+*.log
+
+# Testowe bazy danych
+*.sqlite3
+
+# Pliki tymczasowe
+*.swp
+*.swo
+*~
+
+# Pliki kompilacyjne
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.class
+
+# Pliki wykonywalne
+*.exe
+*.out
+*.app
+
+# Inne niestandardowe pliki, które chcesz ignorować
+# dodaj je tutaj
+

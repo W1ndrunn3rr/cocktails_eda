@@ -1,0 +1,135 @@
+,category,glass,ingredients,instruction_length,mean_alcohol_percentage,complexity_score
+0,Cocktail,Highball glass,"['Soda water', 'Light Rum', 'Lime', 'Mint', 'Sugar']",177,10,10.0
+1,Cocktail,Old-fashioned glass,"['Water', 'Sugar', 'Angostura Bitters', 'Bourbon']",218,10,5.999999999999999
+2,Ordinary Drink,Highball glass,"['Light Rum', 'lemon', 'Vodka', 'Gin', 'Tequila', 'Coca-Cola']",152,20,5.999999999999999
+3,Ordinary Drink,Old-fashioned glass,"['Sweet Vermouth', 'Gin', 'Campari']",44,13,4.0
+4,Ordinary Drink,Old-fashioned glass,"['Powdered Sugar', 'lemon', 'Blended Whiskey', 'Cherry']",148,10,10.0
+5,Cocktail,Cocktail glass,"['Dry Vermouth', 'Gin', 'Olive']",184,13,5.999999999999999
+6,Ordinary Drink,Cocktail glass,"['Light Rum', 'Lime', 'Powdered Sugar']",94,10,2.0
+7,Ordinary Drink,Cocktail glass,"['Tequila', 'Lime Juice', 'Salt', 'Triple Sec']",301,10,10.0
+8,Cocktail,Cocktail glass,"['Angostura Bitters', 'Bourbon', 'Ice', 'Maraschino Cherry', 'Orange Peel', 'Sweet Vermouth']",74,10,8.0
+9,Punch / Party Drink,Copper Mug,"['Vodka', 'Ginger Ale', 'Lime Juice']",104,13,8.0
+10,Ordinary Drink,Cocktail glass,"['Apricot Brandy', 'Lime', 'Triple Sec']",117,8,5.999999999999999
+11,Ordinary Drink,Cocktail glass,"['Apricot Brandy', 'Lemon Juice', 'Triple Sec']",72,8,5.999999999999999
+12,Ordinary Drink,Highball glass,"['Amaretto', 'Lemon Juice', 'Sloe Gin', 'Southern Comfort']",119,7,5.999999999999999
+13,Ordinary Drink,Cocktail glass,"['Gin', 'Lemon Peel', 'Orange Bitters', 'Yellow Chartreuse']",105,10,4.0
+14,Ordinary Drink,Cocktail glass,"['Gin', 'Creme De Cacao', 'Light Cream', 'Nutmeg']",107,10,4.0
+15,Ordinary Drink,Whiskey Glass,"['Brandy', 'Creme De Cacao', 'Light Cream', 'Nutmeg']",123,10,4.0
+16,Ordinary Drink,Cocktail glass,"['Lemon vodka', 'Pineapple Juice', 'Triple Sec']",84,10,5.999999999999999
+17,Ordinary Drink,Cocktail glass,"['Blended Whiskey', 'Dry Vermouth', 'Pineapple Juice']",93,13,4.0
+18,Ordinary Drink,Cocktail glass,"['Blackberry Brandy', 'Bourbon', 'Dry Vermouth', 'Lemon Juice', 'Lemon Peel']",128,10,4.0
+19,Ordinary Drink,Cocktail glass,"['Gin', 'Dry Vermouth', 'Kummel']",80,13,4.0
+20,Ordinary Drink,Cocktail glass,"['Dark Rum', 'Egg White', 'Kahlua']",113,13,5.999999999999999
+21,Ordinary Drink,Cocktail glass,"['Amaretto', 'Creme De Cacao', 'Light Cream']",72,9,5.999999999999999
+22,Ordinary Drink,Cocktail glass,"['Amaretto', 'Light Cream']",78,14,4.0
+23,Ordinary Drink,Old-fashioned glass,"['Amaretto', 'Lime']",152,14,10.0
+24,Ordinary Drink,Collins glass,"['Amaretto', 'Club Soda', 'Lime Juice']",88,9,2.0
+25,Ordinary Drink,Cocktail glass,"['Amaretto', 'White Creme de Menthe']",81,14,8.0
+26,Ordinary Drink,Pousse cafe glass,"['Amaretto', 'Tea', 'Whipped Cream']",155,9,10.0
+27,Ordinary Drink,Cocktail glass,"['Gin', 'Apple Brandy', 'Apricot Brandy']",73,33,2.0
+28,Ordinary Drink,Cocktail glass,"['Applejack', 'Lemon Juice', 'Triple Sec']",72,13,5.999999999999999
+29,Ordinary Drink,Old-fashioned glass,"['Apricot Brandy', 'Egg White', 'Lemon Juice', 'Light Rum', 'Orange', 'Triple Sec']",220,4,10.0
+30,Ordinary Drink,Old-fashioned glass,"['Gin', 'Benedictine', 'Lime', 'Wine']",98,13,5.999999999999999
+31,Ordinary Drink,Champagne flute,"['Champagne', 'Green Creme de Menthe']",82,6,4.0
+32,Ordinary Drink,Whiskey sour glass,"['Gin', 'Grand Marnier', 'Lemon Juice', 'Lemon Peel']",159,10,8.0
+33,Ordinary Drink,Cocktail glass,"['Gin', 'Bitters', 'Sweet Vermouth']",71,13,5.999999999999999
+34,Ordinary Drink,Cocktail glass,"['Scotch', 'Bitters', 'Dry Vermouth', 'Sweet Vermouth']",118,10,5.999999999999999
+35,Ordinary Drink,Champagne flute,"['Banana', 'Cherry', 'Light Rum', 'Lime Juice', 'Sugar', 'Triple Sec']",94,10,2.0
+36,Ordinary Drink,Highball glass,"['Gin', 'Brandy', 'Carbonated Water', 'Dry Vermouth', 'Lemon Peel']",211,8,10.0
+37,Ordinary Drink,Old-fashioned glass,"['Vodka', 'Coffee Liqueur']",84,20,4.0
+38,Ordinary Drink,Cocktail glass,"['Lemon Peel', 'Sloe Gin', 'Sweet Vermouth']",108,10,5.999999999999999
+39,Ordinary Drink,Old-fashioned glass,"['Tequila', 'Celery Salt', 'Lemon Juice', 'lemon', 'Tabasco Sauce', 'Tomato Juice']",148,6,8.0
+40,Ordinary Drink,Old-fashioned glass,"['Vodka', 'Lemon Juice', 'Lime', 'Tabasco Sauce', 'Tomato Juice', 'Worcestershire Sauce']",67,6,5.999999999999999
+41,Ordinary Drink,Highball glass,"['Vodka', 'Blue Curacao', 'Cherry', 'Lemonade']",104,10,2.0
+42,Ordinary Drink,Cocktail glass,"['Tequila', 'Blue Curacao', 'Lime Juice', 'Salt']",166,10,4.0
+43,Ordinary Drink,Old-fashioned glass,"['Vodka', 'Añejo Rum', 'Lemon Juice', 'Orange Juice', 'Tia Maria']",148,15,8.0
+44,Ordinary Drink,Cocktail glass,"['Gin', 'Bitters', 'Blue Curacao', 'Lemon Peel', 'Maraschino Cherry', 'Triple Sec']",187,6,8.0
+45,Ordinary Drink,Cocktail glass,"['Scotch', 'Benedictine', 'Lemon Peel', 'Sweet Vermouth']",122,10,5.999999999999999
+46,Ordinary Drink,Cocktail glass,"['Gin', 'Bitters', 'Dry Vermouth', 'Maraschino Cherry', 'Maraschino Liqueur']",174,8,8.0
+47,Ordinary Drink,Cocktail glass,"['Brandy', 'Light Rum', 'Lime', 'Triple Sec']",72,10,5.999999999999999
+48,Ordinary Drink,Whiskey sour glass,"['Blended Whiskey', 'Cherry', 'Egg White', 'lemon', 'Powdered Sugar']",179,8,10.0
+49,Ordinary Drink,Old-fashioned glass,"['Bitters', 'Bourbon', 'Maraschino Cherry', 'Orange', 'Sugar', 'Water']",238,10,10.0
+50,Ordinary Drink,Highball glass,"['Bourbon', 'Lemon Juice', 'Lemon Peel', 'Sugar', 'Water']",176,10,5.999999999999999
+51,Ordinary Drink,Whiskey sour glass,"['Bourbon', 'Lemon Juice', 'Maraschino Cherry', 'Orange', 'Sugar']",172,10,5.999999999999999
+52,Ordinary Drink,Whiskey sour glass,"['Gin', 'Egg White', 'Grenadine', 'Lemon Juice', 'Triple Sec']",109,8,5.999999999999999
+53,Ordinary Drink,Old-fashioned glass,"['Brandy', 'Club Soda', 'lemon', 'Maraschino Cherry', 'Orange', 'Sugar']",195,10,10.0
+54,Ordinary Drink,Whiskey sour glass,"['Brandy', 'Egg', 'Light Cream', 'Nutmeg', 'Sugar']",148,10,8.0
+55,Ordinary Drink,Whiskey sour glass,"['Brandy', 'Cherry', 'lemon', 'Powdered Sugar']",158,10,5.999999999999999
+56,Ordinary Drink,Old-fashioned glass,"['Cachaca', 'Lime', 'Sugar']",172,10,8.0
+57,Ordinary Drink,Collins glass,"['Blended Whiskey', 'Carbonated Water', 'Grenadine', 'lemon', 'Lime', 'Powdered Sugar']",223,6,10.0
+58,Ordinary Drink,Cocktail glass,"['Light Rum', 'Lime Juice', 'Maraschino Liqueur', 'Triple Sec']",72,10,5.999999999999999
+59,Ordinary Drink,Whiskey sour glass,"['Gin', 'Egg Yolk', 'Lemon Juice', 'Maraschino Liqueur', 'Orange Bitters']",109,8,5.999999999999999
+60,Ordinary Drink,Champagne flute,"['Bitters', 'Champagne', 'Cognac', 'Lemon Peel', 'Sugar']",184,2,8.0
+61,Ordinary Drink,Cocktail glass,"['Cherry Brandy', 'Light Cream', 'Light Rum']",72,10,5.999999999999999
+62,Ordinary Drink,Highball glass,"['Carbonated Water', 'Egg White', 'lemon', 'Light Rum', 'Port', 'Powdered Sugar']",154,10,8.0
+63,Ordinary Drink,Champagne flute,"['Vodka', 'Chocolate Ice-cream', 'Kahlua']",146,13,4.0
+64,Ordinary Drink,Cocktail glass,"['Brandy', 'Lemon Juice', 'Triple Sec']",113,10,5.999999999999999
+65,Ordinary Drink,Cocktail glass,"['Sloe Gin', 'Sweet Vermouth', 'Wine']",71,4,5.999999999999999
+66,Ordinary Drink,Highball glass,"['Coca-Cola', 'Light Rum', 'Lime']",82,10,4.0
+67,Ordinary Drink,Highball glass,"['Gin', 'Ginger Ale', 'Lime']",121,13,8.0
+68,Ordinary Drink,Cocktail glass,"['Scotch', 'Dry Vermouth', 'Lemon Peel']",149,10,5.999999999999999
+69,Ordinary Drink,Cocktail glass,"['Gin', 'Bitters', 'Dubonnet Rouge', 'Lemon Peel']",122,10,5.999999999999999
+70,Ordinary Drink,Highball glass,"['Gin', 'Brandy', 'Carbonated Water', 'Lemon Peel', 'Sweet Vermouth']",216,8,10.0
+71,Ordinary Drink,Cocktail glass,"['Gin', 'Apricot Brandy', 'Cherry', 'Dry Vermouth', 'Grenadine', 'Lemon Juice']",196,10,4.0
+72,Ordinary Drink,Old-fashioned glass,"['Gin', 'Triple Sec']",98,20,5.999999999999999
+73,Ordinary Drink,Cocktail glass,"['Scotch', 'Bitters', 'Sugar Syrup', 'Sweet Vermouth']",72,10,5.999999999999999
+74,Ordinary Drink,Cocktail glass,"['Amaretto', 'Creme De Cacao', 'Light Cream']",80,9,5.999999999999999
+75,Ordinary Drink,Whiskey sour glass,"['Benedictine', 'Blended Whiskey', 'lemon', 'Lime']",156,10,4.0
+76,Ordinary Drink,Champagne flute,"['Cherry', 'Ice', 'Light Rum', 'Lime Juice', 'Sugar', 'Triple Sec']",222,10,4.0
+77,Ordinary Drink,Old-fashioned glass,"['Light Rum', 'Lime Juice', 'Mint', 'Sugar']",166,10,4.0
+78,Ordinary Drink,Cocktail glass,"['Light Rum', 'Lime Juice', 'Pineapple', 'Sugar']",160,10,4.0
+79,Ordinary Drink,Old-fashioned glass,"['Gin', 'Brandy', 'Club Soda', 'Sweet Vermouth']",98,10,5.999999999999999
+80,Ordinary Drink,Highball glass,"['Gin', 'Lime', 'Tonic Water']",124,13,5.999999999999999
+81,Ordinary Drink,Collins glass,"['Gin', 'Carbonated Water', 'Lemon Peel', 'Orange spiral', 'Powdered Sugar']",241,8,8.0
+82,Ordinary Drink,Old-fashioned glass,"['Gin', 'Grenadine', 'Lemon Juice', 'Maraschino Cherry', 'Orange', 'Sugar']",186,6,8.0
+83,Ordinary Drink,Highball glass,"['Gin', 'Carbonated Water', 'lemon', 'Powdered Sugar']",94,10,2.0
+84,Ordinary Drink,Old-fashioned glass,"['Gin', 'lemon', 'Orange Peel', 'Powdered Sugar', 'Water']",170,8,8.0
+85,Ordinary Drink,Old-fashioned glass,"['Gin', 'Carbonated Water', 'Cherry', 'Mint', 'Orange', 'Sugar']",155,6,5.999999999999999
+86,Ordinary Drink,Whiskey sour glass,"['Gin', 'Lemon Juice', 'Maraschino Cherry', 'Orange', 'Sugar']",167,8,8.0
+87,Ordinary Drink,Highball glass,"['Gin', 'Carbonated Water', 'Grenadine', 'Pineapple', 'Powdered Sugar', 'Strawberries']",201,6,5.999999999999999
+88,Ordinary Drink,Highball glass,"['Gin', 'Bitters', 'Club Soda', 'Lime Juice', 'Sugar']",248,8,10.0
+89,Ordinary Drink,Old-fashioned glass,"['Gin', 'Lemon Peel', 'Powdered Sugar', 'Water']",127,10,10.0
+90,Ordinary Drink,Champagne flute,"['Vodka', 'Amaretto', 'Heavy cream']",86,22,8.0
+91,Ordinary Drink,Old-fashioned glass,"['Scotch', 'Amaretto']",90,14,4.0
+92,Ordinary Drink,Old-fashioned glass,"['Vodka', 'Amaretto']",71,34,2.0
+93,Ordinary Drink,Old-fashioned glass,"['Gin', 'Grenadine', 'Pineapple Juice', 'Pineapple', 'Triple Sec']",183,8,8.0
+94,Ordinary Drink,Collins glass,"['Vodka', 'Galliano', 'Orange Juice']",105,13,5.999999999999999
+95,Ordinary Drink,Cocktail glass,"['Lemon Juice', 'Light Rum', 'Pineapple Juice']",113,10,5.999999999999999
+96,Ordinary Drink,Cocktail glass,"['Gin', 'Pineapple Juice', 'Triple Sec']",72,13,5.999999999999999
+97,Ordinary Drink,Cocktail glass,"['Scotch', 'Olive', 'Orange Bitters', 'Sweet Vermouth']",103,10,5.999999999999999
+98,Ordinary Drink,Highball glass,"['Blended Whiskey', 'Carbonated Water', 'lemon', 'Light Rum', 'Powdered Sugar']",154,8,8.0
+99,Ordinary Drink,Collins glass,"['Cherry', 'Irish Whiskey', 'Orange Juice', 'Orange', 'Peach brandy', 'Sweet and Sour']",158,10,5.999999999999999
+100,Ordinary Drink,Cocktail glass,"['Apple Brandy', 'Grenadine', 'Lime']",72,11,5.999999999999999
+101,Ordinary Drink,Highball glass,"['Blended Whiskey', 'Carbonated Water', 'Egg White', 'lemon', 'Port', 'Powdered Sugar']",154,6,8.0
+102,Ordinary Drink,Cocktail glass,"['Gin', 'Green Chartreuse', 'Yellow Chartreuse']",118,13,5.999999999999999
+103,Ordinary Drink,Collins glass,"['Bourbon', 'Club Soda', 'Lemon Juice', 'Maraschino Cherry', 'Orange', 'Sugar']",121,10,5.999999999999999
+104,Ordinary Drink,Cocktail glass,"['Vodka', 'Lime Juice', 'Triple Sec']",78,13,4.0
+105,Ordinary Drink,Brandy snifter,"['Benedictine', 'Bourbon']",55,10,1.0
+106,Ordinary Drink,Cocktail glass,"['Benedictine', 'Bourbon', 'Lemon Peel']",145,10,4.0
+107,Ordinary Drink,Cocktail glass,"['Gin', 'Carbonated Water', 'Egg White', 'lemon', 'Light Cream', 'Powdered Sugar']",154,6,8.0
+108,Ordinary Drink,Cocktail glass,"['Scotch', 'Drambuie', 'Dry Vermouth', 'Lemon Peel']",160,10,5.999999999999999
+109,Ordinary Drink,Cocktail glass,"['Gin', 'Maraschino Liqueur', 'Orange Bitters']",118,13,5.999999999999999
+110,Ordinary Drink,Cocktail glass,"['Gin', 'Sweet Vermouth']",67,20,5.999999999999999
+111,Ordinary Drink,Collins glass,"['Gin', 'Carbonated Water', 'Dry Vermouth', 'Lemon Peel', 'Orange spiral', 'Powdered Sugar']",255,6,10.0
+112,Ordinary Drink,Old-fashioned glass,"['Dark Rum', 'Tia Maria']",95,20,4.0
+113,Ordinary Drink,Collins glass,"['Cherry', 'Light Rum', 'Orgeat Syrup', 'Sweet and Sour', 'Triple Sec']",80,10,4.0
+114,Cocktail,Cocktail glass,"['Gin', 'Cherry', 'Dry Vermouth', 'Orange Bitters', 'Triple Sec']",110,8,4.0
+115,Cocktail,Cocktail glass,"['Gin', 'Dry Vermouth', 'Olive']",184,13,5.999999999999999
+116,Ordinary Drink,Cocktail glass,"['Bourbon', 'Dark Rum', 'Heavy cream']",113,13,5.999999999999999
+117,Ordinary Drink,Collins glass,"['Bourbon', 'Brandy', 'Carbonated Water', 'lemon', 'Light Rum', 'Powdered Sugar']",149,10,8.0
+118,Ordinary Drink,Old-fashioned glass,"['Bitters', 'Grapefruit Juice', 'Light Rum']",96,10,4.0
+119,Ordinary Drink,Whiskey sour glass,"['Blended Whiskey', 'Cherry', 'lemon', 'Red Wine', 'Sugar']",189,10,8.0
+120,Ordinary Drink,Highball glass,"['Gin', 'Cherry Brandy', 'Ginger Ale', 'Orange Juice']",132,10,5.999999999999999
+121,Ordinary Drink,Cocktail glass,"['Vodka', 'Amaretto', 'Creme De Cacao', 'Light Cream', 'Triple Sec']",80,13,5.999999999999999
+122,Ordinary Drink,White wine glass,"['Gin', 'Bitters']",155,20,10.0
+123,Ordinary Drink,Cocktail glass,"['Gin', 'Egg White', 'Grenadine', 'Light Cream']",72,10,5.999999999999999
+124,Ordinary Drink,Cocktail glass,"['Gin', 'Creme De Cacao']",68,20,5.999999999999999
+125,Ordinary Drink,Pousse cafe glass,"['Green Creme de Menthe', 'Grenadine']",107,10,4.0
+126,Ordinary Drink,Cocktail glass,"['Brandy', 'Port']",67,10,5.999999999999999
+127,Ordinary Drink,Whiskey sour glass,"['Egg', 'Light Cream', 'Nutmeg', 'Port', 'Powdered Sugar']",118,10,4.0
+128,Ordinary Drink,Cocktail glass,"['Brandy', 'lemon', 'Light Rum', 'Raspberry syrup']",72,10,5.999999999999999
+129,Ordinary Drink,Cocktail glass,"['Light Rum', 'Lime', 'Sherry']",71,10,5.999999999999999
+130,Ordinary Drink,Cocktail glass,"['Coffee Brandy', 'Lime vodka', 'Sherry']",72,10,5.999999999999999
+131,Ordinary Drink,Collins glass,"['Grenadine', 'Lemon-lime soda', 'Red Wine']",108,4,4.0
+132,Ordinary Drink,Cocktail glass,"['Gin', 'Benedictine', 'Dry Vermouth']",71,13,5.999999999999999
+133,Ordinary Drink,Cocktail glass,"['Dark Rum', 'Kahlua', 'Light Cream', 'Nutmeg']",145,10,8.0
