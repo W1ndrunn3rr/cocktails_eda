@@ -18,7 +18,7 @@ class Loader:
         )
 
     def _clean_ingredients(self, ingredient_list: list) -> list:
-        keys = ["type", "percentage", "name"]
+        keys = ["percentage", "name"]
         return [
             {k: v for k, v in ingredient.items() if k in keys}
             for ingredient in ingredient_list
