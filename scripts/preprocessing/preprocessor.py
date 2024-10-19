@@ -24,6 +24,8 @@ class Preprocessor:
             lambda row: [ingredient["name"] for ingredient in row]
         )
 
+        tmp_ing = data["ingredients"]
+
         data["complexity_score"] = data["instructions"].apply(calculate_complexity)
 
         data = data.drop(["instructions", "alcoholic", "tags"], axis=1)
@@ -39,7 +41,7 @@ class Preprocessor:
         data = _encode_data(data)
 
         data = ingredients_PCA(data)
-
+        data["ingredients"] = tmp_ing.apply(lambda ingredients: len(ingredients))
         data.to_csv("data.csv")
 
         return data
@@ -89,7 +91,7 @@ def ingredients_PCA(data: pd.DataFrame):
 
     final_data = pd.concat([data, pca_df], axis=1)
 
-    return final_data.drop(["ingredients"], axis=1)
+    return final_data
 
 
 def calculate_complexity(instructions: str) -> float:
