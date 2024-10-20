@@ -1,3 +1,6 @@
 matplotlib
 pandas
 nltk
+seaborn
+numpy
+scikit-learn
