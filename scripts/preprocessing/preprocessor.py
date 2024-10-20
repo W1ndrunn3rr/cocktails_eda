@@ -1,4 +1,3 @@
-from . import preprocessor
 import pandas as pd
 import nltk
 from nltk import word_tokenize, pos_tag
@@ -42,7 +41,6 @@ class Preprocessor:
 
         data = ingredients_PCA(data)
         data["ingredients"] = tmp_ing.apply(lambda ingredients: len(ingredients))
-        data.to_csv("data.csv")
 
         return data
 
@@ -78,8 +76,9 @@ def ingredients_PCA(data: pd.DataFrame):
     data["ingredients"] = data["ingredients"].apply(lambda i: " ".join(i))
 
     tfidf_vectorizer = TfidfVectorizer(
-        tokenizer=lambda ingredient: ingredient.split(", ")
+        tokenizer=lambda x: x.split(", "), token_pattern=None
     )
+
     X_tfidf = tfidf_vectorizer.fit_transform(data["ingredients"])
 
     pca = PCA(n_components=10)

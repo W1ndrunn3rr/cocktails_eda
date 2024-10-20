@@ -1,8 +1,6 @@
-from dataclasses import dataclass
 import pandas as pd
 
 
-@dataclass
 class Loader:
 
     def __init__(self):

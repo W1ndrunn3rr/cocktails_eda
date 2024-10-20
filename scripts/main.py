@@ -1,15 +1,12 @@
 from load_prepare.loader import Loader
 from preprocessing.preprocessor import Preprocessor
-from clastering.claster import Claster
+from clustering.cluster import Cluster
 
 
 def main():
     loader = Loader()
     data = Preprocessor.extract_additional_data(loader.get_data())
-    claster = Claster(data)
-
-    claster._transform_data()
-    print(claster.get_X())
+    cluster = Cluster(data)
 
 
 if __name__ == "__main__":
